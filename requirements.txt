@@ -1,0 +1,4 @@
+xhtml2pdf
+Django==2.2
+django-widget-tweaks
+gunicorn==20.0.4
